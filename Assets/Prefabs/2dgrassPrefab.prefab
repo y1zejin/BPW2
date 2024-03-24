@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1346812930145631981}
   - component: {fileID: 2674870637330477384}
   - component: {fileID: 215042371487024514}
-  - component: {fileID: 1529656262160472324}
+  - component: {fileID: 1660075393409243383}
   m_Layer: 0
   m_Name: 2dgrassPrefab
   m_TagString: Untagged
@@ -84,15 +84,23 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1529656262160472324
-MonoBehaviour:
+--- !u!95 &1660075393409243383
+Animator:
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1872098410703348823}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e0a4f08c7c217b439e267da03fb4bc0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b5a08445c59596c4c81102035fe3e0a9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
