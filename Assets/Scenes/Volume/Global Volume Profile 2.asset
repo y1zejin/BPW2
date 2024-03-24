@@ -213,9 +213,9 @@ MonoBehaviour:
         m_Curve:
         - serializedVersion: 3
           time: 0
-          value: 0.3662337
-          inSlope: 1.3040372
-          outSlope: 1.3040372
+          value: 0.10599077
+          inSlope: 2.2526145
+          outSlope: 2.2526145
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
@@ -256,7 +256,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.508
+    m_Value: 0.348
 --- !u!114 &-1113146400527084002
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -275,10 +275,10 @@ MonoBehaviour:
     m_Value: {x: 0.6007416, y: 0.62714255, z: 1, w: 0}
   gamma:
     m_OverrideState: 1
-    m_Value: {x: 0.8396257, y: 0.83371186, z: 1, w: 0.07827715}
+    m_Value: {x: 0.8396257, y: 0.83371186, z: 1, w: 0.21631394}
   gain:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.9436929, z: 0.8694906, w: 0.06479483}
+    m_Value: {x: 1, y: 0.9436929, z: 0.8694906, w: 0.18749419}
 --- !u!114 &-844287029660920860
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -300,10 +300,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.309
+    m_Value: 0.191
   smoothness:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.753
   rounded:
     m_OverrideState: 0
     m_Value: 0
@@ -400,7 +400,7 @@ MonoBehaviour:
     m_Value: 65472
   tint:
     m_OverrideState: 1
-    m_Value: {r: 0, g: 0.012038056, b: 0.46226418, a: 1}
+    m_Value: {r: 0.45660377, g: 0.4704188, b: 1, a: 1}
   highQualityFiltering:
     m_OverrideState: 0
     m_Value: 0
