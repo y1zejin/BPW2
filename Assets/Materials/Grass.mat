@@ -134,9 +134,12 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
+    - _WindColorOverlay: 1
+    - _WindColorOverlayScale: 0.24
+    - _WindColorOverlaySpeed: 0.16
     - _Wind_Intensity: 0.26
-    - _Wind_Scale: 0.02
-    - _Wind_Speed: 5.6
+    - _Wind_Scale: 0.08
+    - _Wind_Speed: 2.64
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
