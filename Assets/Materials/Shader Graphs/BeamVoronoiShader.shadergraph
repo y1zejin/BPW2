@@ -58,9 +58,6 @@
             "m_Id": "6927188d471a4b70848b5240c9c81c05"
         },
         {
-            "m_Id": "6b8197836e1d4c7da2c02cb57c4dbe9b"
-        },
-        {
             "m_Id": "a633d904295042eeb6d91e50a484b41d"
         },
         {
@@ -109,20 +106,6 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "ab1c7b1246b245bcb2f28d7726a7ef55"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "6b8197836e1d4c7da2c02cb57c4dbe9b"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "3aee04f2dc4248589daf882b875b5808"
                 },
                 "m_SlotId": 0
             }
@@ -891,41 +874,6 @@
 }
 
 {
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
-    "m_ObjectId": "6b8197836e1d4c7da2c02cb57c4dbe9b",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Property",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -200.8000030517578,
-            "y": 456.79998779296877,
-            "width": 96.0,
-            "height": 33.60003662109375
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "cd8bcf333b344def962dedaac8f74715"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Property": {
-        "m_Id": "065a9b862de54582940ce1d2fcf85aa9"
-    }
-}
-
-{
     "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
     "m_ObjectId": "6f8bb04b832a4eba907201efe6514704",
@@ -1028,7 +976,7 @@
     "m_ZWriteControl": 0,
     "m_AlphaMode": 0,
     "m_RenderFace": 0,
-    "m_AlphaClip": true,
+    "m_AlphaClip": false,
     "m_CastShadows": true,
     "m_ReceiveShadows": true,
     "m_CustomEditorGUI": "",
@@ -1665,21 +1613,6 @@
         "z": 0.0,
         "w": 0.0
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "cd8bcf333b344def962dedaac8f74715",
-    "m_Id": 0,
-    "m_DisplayName": "Clip",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": 0.0,
-    "m_DefaultValue": 0.0,
-    "m_Labels": []
 }
 
 {
