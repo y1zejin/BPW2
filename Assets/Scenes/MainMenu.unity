@@ -7063,7 +7063,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.01
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -7090,14 +7090,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 877220196}
-  m_LocalRotation: {x: -0.021452779, y: -0.96660143, z: -0.24037369, w: 0.08626688}
-  m_LocalPosition: {x: 124.56, y: 0.8, z: 58.9}
+  m_LocalRotation: {x: 0.11065389, y: -0.96462417, z: -0.21769983, w: -0.099311434}
+  m_LocalPosition: {x: 124.56, y: 0.66, z: 58.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: -27.93, y: -169.8, z: 0}
+  m_LocalEulerAnglesHint: {x: -26.23, y: -189.2, z: -10.94}
 --- !u!1 &923593126
 GameObject:
   m_ObjectHideFlags: 0
@@ -7774,7 +7774,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 60ea7f8f5ef4d6d48afa455c716b7ee3, type: 2}
+  sharedProfile: {fileID: 11400000, guid: a783a138dfbe02146b11762b4e7278d0, type: 2}
 --- !u!4 &1246408662
 Transform:
   m_ObjectHideFlags: 0
@@ -8866,7 +8866,7 @@ GameObject:
   - component: {fileID: 1775404681}
   - component: {fileID: 1775404680}
   m_Layer: 5
-  m_Name: start (TMP) (1)
+  m_Name: made by Lize-Jin Joosten
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8912,7 +8912,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Made by Lize-Jin Joosten
+  m_text: made by Lize-Jin Joosten
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3204121ad24010e44bf1a46e1ce1e2c8, type: 2}
   m_sharedMaterial: {fileID: 7095410182021085118, guid: 3204121ad24010e44bf1a46e1ce1e2c8,
