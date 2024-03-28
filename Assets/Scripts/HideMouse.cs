@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class HideMouse : MonoBehaviour
 {
+    public bool cursorVisible;
+
     // Start is called before the first frame update
     void Start()
     {
-        Cursor.visible = false;
+        Cursor.visible = cursorVisible;
     }
 }
