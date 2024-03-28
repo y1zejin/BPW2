@@ -1211,6 +1211,8 @@ PlayableDirector:
     value: {fileID: 1725858794}
   - key: {fileID: 4561119494041967374, guid: 3cca463437df1354fb2eaedfe332e43d, type: 2}
     value: {fileID: 1725858790}
+  - key: {fileID: -6953984412898286923, guid: 3cca463437df1354fb2eaedfe332e43d, type: 2}
+    value: {fileID: 1942024087}
   m_ExposedReferences:
     m_References: []
 --- !u!136 &325181869
@@ -8587,8 +8589,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1942024085}
   - component: {fileID: 1942024086}
+  - component: {fileID: 1942024087}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Trippy Sound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8732,6 +8735,26 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &1942024087
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942024084}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1 &1978082172
 GameObject:
   m_ObjectHideFlags: 0
